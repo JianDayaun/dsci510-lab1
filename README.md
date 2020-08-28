@@ -2,5 +2,5 @@
 Dsci510 lab 1
 
 By Dayuan Jian
-e-mail: djian@usc.edu
+#e-mail: djian@usc.edu
 
